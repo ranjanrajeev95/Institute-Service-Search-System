@@ -1,4 +1,4 @@
-# institute_services_search_system
+# Institute_Services_Search_System
 A basic web app implemented using Node.js, MondoDB, Express and Bootstrap for frontend.
 A search app that access the database to filter results.
 It finds the local databses of different department and fetchs the result.
